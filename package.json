@@ -1,0 +1,25 @@
+{
+  "name": "news_site",
+  "version": "1.0.0",
+  "description": "News site",
+  "main": "basic_server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliviaedbom/news_site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliviaedbom/news_site/issues"
+  },
+  "homepage": "https://github.com/oliviaedbom/news_site#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.2",
+    "handlebars": "^4.7.7",
+    "node-fetch": "^2.6.1",
+    "vision": "^5.4.4"
+  }
+}
